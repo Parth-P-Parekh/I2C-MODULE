@@ -47,7 +47,8 @@ i2c-controller/
 
 ### 🔧 Requirements
 - [Icarus Verilog](http://iverilog.icarus.com/)
-- [GTKWave](http://gtkwave.sourceforge.net/) 
+- [GTKWave](http://gtkwave.sourceforge.net/)
+- Vivado for Synthesis
 
 🧠 Key Features
 ✅ Fully synthesizable RTL
