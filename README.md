@@ -78,7 +78,6 @@ ack_err	output	Acknowledgment error
 done	output	Transaction complete
 
 🧰 Use Cases
-Embedded SoC peripheral communication
 
 FPGA-based I²C interfacing
 
